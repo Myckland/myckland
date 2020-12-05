@@ -1,8 +1,12 @@
 ### Hi there 👋
 I am current Data Science undergrad at Simon Fraser University. 
+
 Currently honing my skills in Python and R as my technical skills.
+
 I also learned web development as my side project.
-Open up for a collaboration.
+
+Open to any project discussion and future collaboration.
+asdfasdfasd
 
 
 <!--
