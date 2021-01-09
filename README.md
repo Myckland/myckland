@@ -6,7 +6,7 @@ Currently honing my skills in Python and R as my technical skills.
 I also learned web development as my side project.
 
 Open to any project discussion and future collaboration.
-asdfasdfasd
+
 
 
 <!--
